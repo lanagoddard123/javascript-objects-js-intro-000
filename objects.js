@@ -1,3 +1,3 @@
 var playlist = {
-  Phil Ochs: 'song'
+  'Phil Ochs': 'song'
 }
